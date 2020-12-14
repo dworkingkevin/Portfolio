@@ -1,0 +1,13 @@
+body{background-color: #006064;
+background-size: cover;
+background-position: center;
+min-height: 800px;} 
+  @media screen and (max-width: 670px){
+    header{
+      min-height: 500px;
+    }
+  }
+
+  .sidenav-overlay{edge; 'right'; left: 0 !important}
+
+  .container section center align{padding-top: 200px;}
